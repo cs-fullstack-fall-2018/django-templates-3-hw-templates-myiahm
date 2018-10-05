@@ -12,3 +12,6 @@ WRITE YOUR 3 ANSWERS BELOW
 
 
 A template contains variables, which get replaced with values when the template is evaluated, and tags, which control the logic of the template.
+
+
+When the template engine encounters a variable, it evaluates that variable and replaces it with the result
